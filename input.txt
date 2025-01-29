@@ -1,0 +1,35 @@
+P+: Extended Textual Conditioning in Text-to-Image Generation
+Multi-Concept Customization of Text-to-Image Diffusion
+ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation
+Implicit Style-Content Separation using B-LoRA
+UnZipLoRA: Separating Contentand Style from a Single Image
+A Neural Space-Time Representation for Text-to-Image Personalization
+ReVersion: Diffusion-Based Relation Inversion from Images
+NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models
+Lego: Learning to Disentangle and Invert Personalized Concepts Beyond Object Appearance in Text-to-Image Diffusion Models
+Concept Decomposition for Visual Exploration and Inspiration
+UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency
+Prompt-to-Prompt Image Editing with Cross Attention Control
+SANA: EFFICIENT HIGH-RESOLUTION IMAGE SYNTHESIS WITH LINEAR DIFFUSION TRANSFORMERS
+DEEP COMPRESSION AUTOENCODER FOR EFFICIENT HIGH-RESOLUTION DIFFUSION MODELS
+InstructPix2Pix: Learning to Follow Image Editing Instructions
+GENEVAL: An Object-Focused Framework for Evaluating Text-to-Image Alignment
+StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
+Factorized Diffusion: Perceptual Illusions by Noise Decomposition
+Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow
+Training Large Language Models to Reason in a Continuous Latent Space
+Are Emergent Abilities of Large Language Models a Mirage?
+RecMind: Large Language Model Powered Agent For Recommendation
+MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+ConceptLab: Creative Concept Generation using VLM-Guided Diffusion Prior Constraints
+Large Language Models for Generative Recommendation: A Survey and Visionary Discussions
+Leveraging Large Language Models in Conversational Recommender Systems
+Null-text Inversion for Editing Real Images using Guided Diffusion Models
+GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation
+Hierarchical Text-Conditional Image Generation with CLIP Latents
+ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs
+Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)
+VIP5: Towards Multimodal Foundation Models for Recommendation
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model
