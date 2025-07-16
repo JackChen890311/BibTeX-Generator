@@ -8,6 +8,7 @@ Python:
 - argparse
 - tqdm
 
+You can use conda or virtualenv to create environment.  
 The default input and output are `input.txt` and `output.txt`. Refer to the provided example files for the required format.
 
 # Notice
